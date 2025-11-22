@@ -5,7 +5,7 @@ I'm Arief, a Backend Engineer with experience building scalable APIs and backend
 Other CS things that I interested in are AI (this is referring to the general AI not just DL or ML), Games (Currently interested in graphics programming, so like the engine side of game dev), Frontend (This is related to my other interest, since it has webGL, and webasm. So I do plan to explore that in the future) and System programming.
 
 
-- 📫 How to reach me:
+- 📫 How to reach me :
   - [Linkedin](https://www.linkedin.com/in/muhammad-ariefuddin-satria-dharma/)
 
 <!--
