@@ -9,7 +9,7 @@ Other CS things that I interested in are:
 - and System programming
 
 
-- 📫 How to reach me:
+### 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/muhammad-ariefuddin-satria-dharma/)
 
 <!--
