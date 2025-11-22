@@ -1,4 +1,4 @@
-## Hi there 👋
+## sup👋
 
 I'm Arief, a Software Engineer with experience building scalable APIs and backend systems. Experienced in debugging production issues, working with distributed systems, and collaborating cross-functionally to deliver maintainable, high-quality software.
 
