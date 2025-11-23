@@ -1,6 +1,6 @@
 ## sup👋
 
-I'm Arief, a Software Engineer with experience building scalable APIs and backend systems. Experienced in debugging production issues, working with distributed systems, and collaborating cross-functionally to deliver maintainable, high-quality software.
+I'm Arief, a Software Engineer with experience building scalable backend systems. Experienced in debugging production issues, working with distributed systems, and collaborating cross-functionally to deliver maintainable, high-quality software.
 
 Other CS things that I interested in are:
 - AI (this is referring to the general AI not just DL or ML)
